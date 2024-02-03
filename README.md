@@ -22,31 +22,23 @@
 
   <div class="container">
 
-    <div class="valentines">
+  <div class="valentines">
 
-      <div class="envelope"></div>
+   <div class="envelope"></div>
 
-      <div class="front"></div>
+   <div class="front"></div>
 
-      <div class="card">
+   <div class="card">
 
-        <div class="text">
-          
-          Happy<br>
-          
-          Valentine's<br>
-          
-          Day!
-          
-        </div>
+  <div class="text">Happy<br>Valentine's</br>Day </div>
         
-        <div class="heart"></div>
+   <div class="heart"></div>
         
-      </div>
+  </div>
       
-    </div>
+</div>
     
-    <div class="shadow"></div>
+<div class="shadow"></div>
 
   </div>
 
